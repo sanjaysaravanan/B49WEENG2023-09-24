@@ -77,3 +77,11 @@ React: Complete Documentation ---> https://react.dev/
   className instead of class ( class is a keyword in js )
     class is a keyword for creating blueprints of user defined object
     because of which we need to use className instead of class jsx syntax
+
+Task:
+
+  no need to submit, I will inform regarding submission on 2023-09-30 
+  React Day - 2: Just Try, 
+  **Deployment will teach on Next Saturday, then You can submit**
+
+    Price Card Design - https://docs.google.com/document/d/11URBvZUsXT4Sr3YtCuv-5gcOHmkOmX976h-QKcXbWqs/edit
